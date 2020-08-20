@@ -1,5 +1,5 @@
 {
-  "name": "djamco/api-modules",
+  "name": "djamco/20irestmodule",
   "description": "DJaMCo fork of the Modules to access the 20i API",
   "version": "1.0.6",
   "license": "BSD-3-Clause",
