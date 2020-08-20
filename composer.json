@@ -1,11 +1,11 @@
 {
-  "name": "20i/api-modules",
-  "description": "Modules to access the 20i API",
+  "name": "djamco/api-modules",
+  "description": "DJaMCo fork of the Modules to access the 20i API",
   "version": "1.0.6",
   "license": "BSD-3-Clause",
   "autoload": {
     "psr-4": {
-      "TwentyI\\API\\": ["lib/TwentyI/API/"]
+      "Djamco\\20i\\": ["lib/TwentyI/API/"]
     }
   },
   "scripts": {
